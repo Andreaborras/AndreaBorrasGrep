@@ -2,4 +2,5 @@ grep "agujero" anillo.txt
 grep -i "agujero" anillo.txt
 grep -w "anillo" anillo.txt
 grep -ni "anillo" anillo.txt
+grep "^Frodo" anillo.txt
 
