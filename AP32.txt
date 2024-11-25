@@ -6,3 +6,4 @@ grep "^Frodo" anillo.txt
 
 
 grep -B 2 "elfo" anillo.txt
+grep -i -A 1 "compañía" anillo.txt
