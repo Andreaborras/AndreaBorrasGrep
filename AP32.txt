@@ -3,7 +3,7 @@ grep -i "agujero" anillo.txt
 grep -w "anillo" anillo.txt
 grep -ni "anillo" anillo.txt
 grep "^Frodo" anillo.txt
-
+grep "Mordor" anillo.txt
 
 grep -B 2 "elfo" anillo.txt
 grep -i -A 1 "compañía" anillo.txt
