@@ -4,3 +4,5 @@ grep -w "anillo" anillo.txt
 grep -ni "anillo" anillo.txt
 grep "^Frodo" anillo.txt
 
+
+grep -B 2 "elfo" anillo.txt
